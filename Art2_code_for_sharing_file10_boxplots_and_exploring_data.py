@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Wed Dec 21 12:07:37 2022 by Chris ten Dam.
-This code has been written for an academic study titled "Driving energy and emissions: the built environment influence on car efficiency".
+This code has been written for an academic study titled "Car energy efficiency and emissions in the built environment".
 
 It can be used to make boxplots of energy use and CO2 emissions.
 
