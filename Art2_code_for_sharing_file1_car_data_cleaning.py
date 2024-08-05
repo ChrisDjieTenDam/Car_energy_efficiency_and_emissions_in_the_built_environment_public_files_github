@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Mon Aug 16 10:22:26 2021  by Chris ten Dam.
-This code has been written for an academic study titled "Driving energy and emissions: the built environment influence on car efficiency".
+This code has been written for an academic study titled "Car energy efciency and emissions in the built environment".
 
 It cleans the data from the Netherlands Vehicle Authority (RDW).
 Next, it adds information on the energy use of PHEVs and BEVs from TNO publications.
