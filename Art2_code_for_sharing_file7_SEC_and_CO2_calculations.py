@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Wed May 11 12:36:28 2022 by Chris ten Dam.
-This code has been written for an academic study titled "Driving energy and emissions: the built environment influence on car efficiency".
+This code has been written for an academic study titled "Car energy efficiency and emissions in the built environment".
 
 It combines the MPN data from 2017, 2018, and 2019.
 Next, it computes the CO2 emissions and energy use of each vehicle using TNO (de Ruiter et al. 2021) and CE Delft (STREAM 2023) research.
