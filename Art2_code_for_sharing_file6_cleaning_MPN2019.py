@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Tue Nov 16 14:06:12 2021 by Chris ten Dam.
-This code has been written for an academic study titled "Driving energy and emissions: the built environment influence on car efficiency".
+This code has been written for an academic study titled "Car energy efficiency and emissions in the built environment".
 
 It cleans the data from the 2019 Netherlands Mobility Panel.
 There are multiple datasets: one for each survey.
