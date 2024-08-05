@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Sun Jul 24 12:28:57 2022 by Chris ten Dam.
-This code has been written for an academic study titled "Driving energy and emissions: the built environment influence on car efficiency".
+This code has been written for an academic study titled "Car energy efficiency and emissions in the built environment".
 
 The first part contains some final data cleaning steps. 
 Next, the discrete choice modeling framework is estimated. 
