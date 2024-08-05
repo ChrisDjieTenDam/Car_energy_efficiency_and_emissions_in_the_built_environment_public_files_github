@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Wed Aug 11 10:47:18 2021 by Chris ten Dam.
-This code has been written for an academic study titled "Driving energy and emissions: the built environment influence on car efficiency".
+This code has been written for an academic study titled "Car energy efficiency and emissions in the built environment".
 
 It couples built environment data from Statistics Netherlands and the Vitality data center.
 The obtained datasets were transferred to the Snellius supercomputer to allow precise calculations of distances to city centers.
